@@ -1,0 +1,36 @@
+productusing System.Security.Cryptography;
+using CQRSSample.Commands;
+using CQRSSample.Queries;
+using MediatR;
+using Microsoft.AspNetCore.Mvc;
+
+namespace CQRSSample.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class OrganizationController : ControllerBase
+    {
+        private readonly IMediator _mediator;
+
+        public OrganizationController(IMediator mediator)
+        {
+            _mediator = mediator;
+        }
+
+        // ✅ GET: /api/organization (Mevcut değeri döndürür)
+        [HttpGet]
+        public async Task<ActionResult<int>> Get()
+        {
+            var result = await _mediator.Send(new GetOrganizationQuery());
+            return Ok(result);
+        }
+
+        // ✅ POST: /api/organization (Yeni değeri ayarlar)
+        [HttpPost]
+        // public async Task<ActionResult<int>> Post()
+        // {
+        //     var result = await _mediator.Send(new IncrementProductConsumption());
+        //     return Ok(result);
+        // }
+    }
+}
