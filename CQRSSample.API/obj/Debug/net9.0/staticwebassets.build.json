@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Zm1DrU/PWxuZv+DnP7t1Y/HngrPLOcO8NJbeq2d3sjQ=",
+  "Source": "CQRSSample.API",
+  "BasePath": "_content/CQRSSample.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

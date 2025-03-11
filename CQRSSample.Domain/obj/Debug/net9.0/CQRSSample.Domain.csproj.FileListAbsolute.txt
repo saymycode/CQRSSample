@@ -1,0 +1,13 @@
+D:\Bitbucket\CQRSSample\CQRSSample.Domain\bin\Debug\net9.0\CQRSSample.Domain.deps.json
+D:\Bitbucket\CQRSSample\CQRSSample.Domain\bin\Debug\net9.0\CQRSSample.Domain.dll
+D:\Bitbucket\CQRSSample\CQRSSample.Domain\bin\Debug\net9.0\CQRSSample.Domain.pdb
+D:\Bitbucket\CQRSSample\CQRSSample.Domain\obj\Debug\net9.0\CQRSSample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bitbucket\CQRSSample\CQRSSample.Domain\obj\Debug\net9.0\CQRSSample.Domain.AssemblyInfoInputs.cache
+D:\Bitbucket\CQRSSample\CQRSSample.Domain\obj\Debug\net9.0\CQRSSample.Domain.AssemblyInfo.cs
+D:\Bitbucket\CQRSSample\CQRSSample.Domain\obj\Debug\net9.0\CQRSSample.Domain.csproj.CoreCompileInputs.cache
+D:\Bitbucket\CQRSSample\CQRSSample.Domain\obj\Debug\net9.0\CQRSSample.Domain.sourcelink.json
+D:\Bitbucket\CQRSSample\CQRSSample.Domain\obj\Debug\net9.0\CQRSSample.Domain.dll
+D:\Bitbucket\CQRSSample\CQRSSample.Domain\obj\Debug\net9.0\refint\CQRSSample.Domain.dll
+D:\Bitbucket\CQRSSample\CQRSSample.Domain\obj\Debug\net9.0\CQRSSample.Domain.pdb
+D:\Bitbucket\CQRSSample\CQRSSample.Domain\obj\Debug\net9.0\ref\CQRSSample.Domain.dll
+D:\Bitbucket\CQRSSample\CQRSSample.Domain\obj\Debug\net9.0\CQRSSample.Domain.csproj.AssemblyReference.cache
